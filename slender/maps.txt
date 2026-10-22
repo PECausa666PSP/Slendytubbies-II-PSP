@@ -1,0 +1,6 @@
+campground.bsp
+city.bsp
+dock.bsp
+hollywood.bsp
+usermaps
+win.bsp
